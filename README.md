@@ -1,4 +1,3 @@
 # cookie-recipe
-####by
-### UM Magnific
+### credits to UM Magnific
 #### Enjoy the meal
